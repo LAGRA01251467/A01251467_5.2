@@ -1,0 +1,18 @@
+--- RESULTADOS DE EJECUCIÓN ---
+Catálogo: TC1.ProductList.json
+Ventas: TC1.Sales.json
+Costo Total: 2,481.86
+Tiempo de ejecución: 0.0005 segundos
+-------------------------------
+--- RESULTADOS DE EJECUCIÓN ---
+Catálogo: TC1.ProductList.json
+Ventas: TC2.Sales.json
+Costo Total: 166,568.23
+Tiempo de ejecución: 0.0007 segundos
+-------------------------------
+--- RESULTADOS DE EJECUCIÓN ---
+Catálogo: TC1.ProductList.json
+Ventas: TC3.Sales.json
+Costo Total: 165,235.37
+Tiempo de ejecución: 0.0007 segundos
+-------------------------------
